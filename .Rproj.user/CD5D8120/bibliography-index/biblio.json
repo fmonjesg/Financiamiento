@@ -1,0 +1,407 @@
+{
+    "sources": [
+        {
+            "author": [
+                {
+                    "family": "Fajnzylber",
+                    "given": "Eduardo"
+                },
+                {
+                    "family": "Lara",
+                    "given": "Bernardo"
+                }
+            ],
+            "container-title": "Economics of Education Review",
+            "id": "attendance",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "keyword": "Financiamiento",
+            "title": "Attendance manipulation and efficiency in chile´s school voucher system",
+            "type": "article-journal",
+            "volume": "95"
+        },
+        {
+            "author": [
+                {
+                    "family": "Levin",
+                    "given": "Henry M."
+                }
+            ],
+            "container-title": "Journal of Policy Analysis and Management",
+            "id": "levin1998",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        1998
+                    ]
+                ]
+            },
+            "keyword": "Voucher",
+            "page": "373 - 392",
+            "title": "Educational vouchers: Effectiveness, choice, and cost",
+            "title-short": "Educational vouchers",
+            "type": "article-journal",
+            "volume": "17"
+        },
+        {
+            "author": [
+                {
+                    "literal": "Ministerio de Educación"
+                }
+            ],
+            "id": "mineducdirec2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "keyword": "Directorio",
+            "publisher": "Minsiterio de Educación",
+            "title": "Directorio de establecimientos educacionales 2022",
+            "type": "report"
+        },
+        {
+            "author": [
+                {
+                    "literal": "Superintendencia de Eduacción Escolar"
+                }
+            ],
+            "id": "supereduc",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "keyword": "EERR",
+            "publisher": "Superintendencia de Eduacción Escolar",
+            "title": "Estado de resultado año 2022",
+            "type": "report"
+        },
+        {
+            "author": [
+                {
+                    "family": "Friedman",
+                    "given": "Milton"
+                }
+            ],
+            "id": "friedman1962",
+            "issued": {
+                "date-parts": [
+                    [
+                        1962
+                    ]
+                ]
+            },
+            "keyword": "Voucher",
+            "publisher": "University of Chicago Press",
+            "title": "Capitalism and freedom",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Levin",
+                    "given": "Henry M."
+                }
+            ],
+            "container-title": "Educational Evaluation and Policy Analysis",
+            "id": "levin2002",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2002
+                    ]
+                ]
+            },
+            "keyword": "Financiamiento, Voucher",
+            "page": "159-174",
+            "title": "A comprehensive framework for evaluating educational vouchers",
+            "type": "article-journal",
+            "volume": "24"
+        },
+        {
+            "author": [
+                {
+                    "family": "Gallego",
+                    "given": "Francisco"
+                },
+                {
+                    "family": "Sapelli",
+                    "given": "Claudio"
+                }
+            ],
+            "container-title": "Temas de la Agenda Pública",
+            "id": "Gallego2007",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007
+                    ]
+                ]
+            },
+            "keyword": "Financiamiento",
+            "number": "10",
+            "publisher": "Pontificia Universidad Católica de Chile",
+            "title": "Análisis de las fortalezas y debilidades del esquema de financiamiento de la educación en chile y propuestas para mejorarlo",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Jaimovich",
+                    "given": "Analı́a"
+                },
+                {
+                    "family": "Elacqua",
+                    "given": "Gregory"
+                },
+                {
+                    "family": "Rodrı́guez",
+                    "given": "Julio"
+                },
+                {
+                    "family": "Ortı́z",
+                    "given": "Marcela"
+                },
+                {
+                    "family": "Schwartz",
+                    "given": "Liora"
+                },
+                {
+                    "family": "Román",
+                    "given": "Alonso"
+                }
+            ],
+            "editor": [
+                {
+                    "literal": "Banco Interamericano de Desarrollo"
+                }
+            ],
+            "id": "BID",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "keyword": "Financiamiento",
+            "publisher": "Banco Interamericano de Desarrollo",
+            "title": "Financiamiento de la educación en chile: Un análisis del funcionamiento de la subvención escolar",
+            "title-short": "Financiamiento de la educación en chile",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "McEwan",
+                    "given": "Patrick J."
+                },
+                {
+                    "family": "Urquiola",
+                    "given": "Miguel"
+                },
+                {
+                    "family": "Venegas",
+                    "given": "Emilia"
+                }
+            ],
+            "container-title": "Economı́a",
+            "id": "McEwan",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008
+                    ]
+                ]
+            },
+            "keyword": "Financiamiento",
+            "page": "1-27",
+            "title": "School choice, stratification, and information on school performance: Lessons from chile",
+            "title-short": "School choice, stratification, and information on school performance",
+            "type": "article-journal",
+            "volume": "8"
+        },
+        {
+            "author": [
+                {
+                    "family": "González",
+                    "given": "Pablo"
+                }
+            ],
+            "container-title": "Financiamiento de la educación en américa latina",
+            "editor": [
+                {
+                    "family": "UNESCO"
+                }
+            ],
+            "id": "Gonzalez",
+            "issued": {
+                "date-parts": [
+                    [
+                        1998
+                    ]
+                ]
+            },
+            "keyword": "Financiamiento",
+            "page": "161-188",
+            "publisher": "PREAL-UNESCO",
+            "title": "Financiamiento de la educación en chile",
+            "type": "chapter"
+        },
+        {
+            "author": [
+                {
+                    "literal": "Ministerio de Educación"
+                }
+            ],
+            "id": "AAEE",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "keyword": "AAEE",
+            "publisher": "Ministerio de Educación",
+            "title": "Ley 21.109 establece un estatuto de los asistentes de la educación pública",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "literal": "Ministerio de Educación"
+                }
+            ],
+            "id": "SDPD",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "keyword": "SDPS",
+            "publisher": "Ministerio de Educación",
+            "title": "Ley 20.903 crea el sistema de desarrollo profesional docente y modifica otras normas",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Velasco",
+                    "given": "Manuel Salas"
+                }
+            ],
+            "editor": [
+                {
+                    "family": "A.",
+                    "given": "Pearson Educación S."
+                }
+            ],
+            "id": "SALASECONEDUC",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008
+                    ]
+                ]
+            },
+            "keyword": "Economı́a de la Educación",
+            "publisher": "Pearson Educación S.A.",
+            "publisher-place": "Madrid",
+            "title": "Economı́a de la educación",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "literal": "Ministerio de Educación"
+                }
+            ],
+            "id": "NEP",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "keyword": "Ley, NEP",
+            "publisher": "Ministerio de Educación",
+            "title": "Ley 21.040 crea el sistema de educación pública",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "literal": "Ministerio de Educación"
+                }
+            ],
+            "id": "LIE",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "keyword": "Ley",
+            "publisher": "Ministerio de Educación",
+            "title": "Ley 20.845 de inclusión escolar que regula la admisión de los y las estudiantes, elimina el financiamiento compartido y prohı́be el lucro en establecimientos educacionales que reciben aporte del estado",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "literal": "Ministerio Secretarı́a General de la Presidencia"
+                }
+            ],
+            "id": "Constitucion",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005
+                    ]
+                ]
+            },
+            "keyword": "Ley",
+            "publisher": "Ministerio Secretarı́a General de la Presidencia",
+            "title": "Decreto 100 fija el texto refundido, coordinado y sistemarizado de la constitución polı́tica de la república de chile",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "literal": "Ministerio de Educación"
+                }
+            ],
+            "id": "DFL2",
+            "issued": {
+                "date-parts": [
+                    [
+                        1998
+                    ]
+                ]
+            },
+            "keyword": "Ley, Financiamiento, Subvenciones",
+            "publisher": "Ministerio de Educación",
+            "title": "Fija texto refundido, coordinado y sistematizado del decreto con fuerza de ley N2, de 1996, sobre subvenciones del estado a establecimientos educacionales",
+            "type": "book"
+        }
+    ],
+    "project_biblios": []
+}

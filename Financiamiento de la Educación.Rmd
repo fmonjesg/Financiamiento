@@ -1,0 +1,69 @@
+---
+title: "Financiamiento de la Educación"
+author: FEBLO
+subtitle: "Borrador"
+output: word_document
+editor: visual
+bibliography: financiamiento.bib
+link-citations: true
+csl: apa.csl
+documentclass: article
+header-includes:
+- \usepackage[document]{ragged2e}
+- \usepackage{fancyhdr,graphicx,parskip}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+```{r datos, echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+
+```
+
+# Abstrac
+
+# Introducción
+
+La década de los ochenta fue sin duda una época de cambios en el sistema educacional escolar, tanto en su estructura como para su sistema de financiamiento. En este sentido, se materializó el traspaso de los establecimientos fiscales a los municipios, y para algunos casos puntuales, se realiza el traspaso a corporaciones empresariales con foco técnico profesional, conocido como el Sistema de Administración Delegada (SAD). Además, se establece un sistema de pago mediante subvenciones, el cual transfiere recursos a los sostenedores por la asistencia que los alumnos tienen a los establecimientos educacionales [@Gonzalez].
+
+La implementación de este sistema administrativo y de financiamiento implicó una serie de regulaciones que pudiesen hacer operativa su acción, comenzando por el rol del Estado en la Educación, consagrado en la Constitución Política de la República, como la promulgación y diversas modificaciones de la Ley de Subvenciones y los instrumentos de política pública que con el tiempo han surgido y que han generado nuevas fuentes de financiamiento para la educación escolar.
+
+El modelo de financiamiento, denominado el sistema de Voucher [@friedman1962], es uno de los temas centrales y más polémicos, tanto por su origen teórico como por su implementación y efectos que ha generado en el sistema educativo.
+
+# Marco Normativo y Reforma de los años Ochenta
+
+La Constitución Política de la República de Chile, en su artículo 19°, numeral 10° establece el derecho a la educación y las obligaciones del Estado al respecto a este tema [@Constitucion].
+
+En este sentido, se determina como objetivo de la educación el pleno desarrollo de las personas, entregando a los padres el derecho preferente de la educación de sus hijos[^1].
+
+[^1]: Es importante mencionar que la sociedad chilena, desde la última parte del año 2019, se encuentra en un proceso de modificación de su Constitución Política, situación que a la fecha del desarrollo de este documento aún no se encuentra finalizada.
+
+Además, se determina que es obligatorio promover la educación parvularia y la obligatoriedad de la educación básica y media, para lo cual el Estado debe financiar un sistema gratuito con este objetivo.
+
+En esta linea, el DLF N°2 de 1998 [@DFL2] es el marco normativo que establece los mecanismos generales por los cuales el Estado Financia la Educación, el cual es complementado por leyes especiales como la Subvención Escolar Preferencial (SEP), la Ley de Inclusión (LIE), la Ley de la Nueva Educación Pública (NEP), entre otros.
+
+Tal como lo establece el artículo 3° del DFL N°2 , los objetivos del financiamiento que entrega el Estado a los Sostenedores tiene fines amplios, buscando en todo momento asegurar la prestación del servicio educativo. Entre estos objetivos explícitos en la norma es posible encontrar: Pago de Remuneraciones de Personal perteneciente a la Administración; Pago de Remuneraciones de Docentes y Asistentes de la Educación; Gastos de Operación; Adquisición de Servicios, Materiales e Insumos; Inversión en Activos Financieros y No Financieros; Gastos de Mantención y Reparación; Pago de Obligaciones Garantizadas con Hipotecas; Pago de Créditos Bancarios o mutuos; Gastos Directos para la mejora de la calidad; Gastos relativos al Proyecto Educativo.
+
+En este sentido, en Banco Interamericano de Desarrollo (BID) publicó el año 2022 un extenso estudio en el cual analiza las diferentes subvenciones y fuentes de recursos presentes en el sistema educativo chileno, pasando por su marco regulatorio especifico, la especificidad que tienen las remuneraciones de los profesionales de la educación y los asistentes de la educación, como así también una proyección de la implementación de la Ley N°21.040 (Nueva Educación Pública) y su funcionamiento en régimen una vez terminada la etapa de traspaso desde los municipios a los nuevos Servicios Locales de Educación Pública (SLEP), proceso que reversa la reforma implementada en Chile durante los años 80 [@BID].
+
+EL DFL N°2 es objeto de diferentes modificaciones a través del tiempo, entre ellas toma relevancia la introducida por la denominada Ley de Inclusión (LIE) [@LIE]. En lo relevante, este cuerpo normativo define la naturaleza que deben tener las instituciones educacionales que reciben aportes del Estado, caracterizándose por no tener fines de lucro, además de regular rol y requisitos que deben cumplir los sostenedores educacionales.
+
+Respecto al financiamiento, la LIE en su artículo trigésimo séptimo transitorio crea un "Fondo destinado a la recuperación y fortalecimiento de la educación pública", fondo que posteriormente es conocido como el "Fondo de Apoyo a la Educación Pública" (FAEP), instrumento esencial para el financiamiento de los sostenedores públicos por su aporte a cubrir los costos de operación de la prestación del servicio educativo.
+
+Existen otros cuerpos normativos que han afectado el sistema educativo como su financiamiento, ejemplo de esto es la norma que desde el año 2017 modifica el estatuto de los profesionales de la educación (estatuto docente), creando el "Sistema de Desarrollo Profesional Docente" (SDPD) [@SDPD] o la Ley 21.109, que establece el "Estatuto de los Asistentes de la Educación" [@AAEE].
+
+Por otro lado, los recursos que son regulados por el DFL N°2 están contenidos en la Ley de Presupuesto del Sector Público de cada año, particularmente en el Programa 20 de la Partida 09, Ministerio de Educación.
+
+Cerrando una discusión respecto a la calidad en la gestión como Sostenedor Educacional de los Municipios, en el 2017 se promulga la Ley N°21.040, la cual crea el Sistema de Educación Pública (NEP), entregando la labor de administrador de los establecimientos escolares públicos a nuevos servicios dependientes del Ministerio de Educación, Los Servicios Locales de Educación Pública, los cuales son coordinados e implementados por la Dirección de Educación Pública [@NEP]
+
+# Subsidio a la Demanda
+
+En XX se publicó Capitalism and Freedom, obra que entre otros temas plantea la idea del Voucher educativo como instrumento para el financiamiento de la educación escolar.
+
+La reforma educacional implementada en Chile durante los años ochenta significó un cambio en el órgano encargado de la provisión del servicio educativo, pasando desde el Gobierno Central a las administraciones locales, sino que también implicó un cambio en el modelo de financiamiento de la educación primaria y secundaria en el país.
+
+En esta sentido, el modelo implementado para el financiamiento de la educación primaria y secundaria en Chile sigue la lógica de Subsidio a la Demanda, situación en la cual cada uno de los alumnos matriculado en las escuelas elegibles por el subsidio tiene un "Voucher", el cual se mueve con el alumno en caso de cambio de establecimiento. En términos teóricos, este sistema es posible conceptualizarlo como un "cuasi mercado", ya que el precio fijado no es determinado por la oferta y la demanda, sino que por por el regulador, quien además debe recopilar la información necesaria para la revisión periódica del valor del voucher [@Gallego2007].
+
+# Bibliografía
